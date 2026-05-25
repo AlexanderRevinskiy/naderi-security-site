@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://naderi-security.de/sitemap-index.xml

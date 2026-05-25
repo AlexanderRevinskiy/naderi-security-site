@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://naderi-security.de/sitemap-index.xml
+Sitemap: https://alexanderrevinskiy.github.io/sitemap-index.xml
